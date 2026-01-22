@@ -1,0 +1,1 @@
+These audio files are a part of a digital exhibit presented by Winterthur Museum and Library. Find the digital exhibit at the following link: https://digitalcollections.winterthur.org/exhibits/wpamc-exhibit-1
