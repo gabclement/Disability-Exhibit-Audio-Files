@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<body style="margin:0; background:transparent;">
+
+<audio id="audio" controls style="width:100%; display:block;"></audio>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const file = params.get("src");
+
+  if (file) {
+    document.getElementById("audio").src = file;
+  }
+</script>
+
+</body>
+</html>
